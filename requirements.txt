@@ -13,5 +13,6 @@ sphinx_copybutton
 sphinx_design
 sphinx_togglebutton
 linkify-it-py
-nbsphnix
+jupyter-sphinx
 myst_nb
+nbsphinx

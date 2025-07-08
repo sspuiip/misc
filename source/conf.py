@@ -31,7 +31,7 @@ language = 'zh_CN'
 
 source_suffix = {
     '.rst': 'restructuredtext',
-    '.txt': 'markdown',
+    #'.txt': 'markdown',
     '.md': 'myst-nb',
     '.ipynb': 'myst-nb'
 }

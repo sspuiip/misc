@@ -8,10 +8,11 @@ Welcome to misc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 计算图
+   :caption: 杂项
    :numbered:
 
    comp_graph/comp_graph.ipynb
+   gen_model/gen_model.ipynb
 
 
 
