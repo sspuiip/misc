@@ -39,7 +39,7 @@ source_suffix = {
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'nature' # furo sphinx_book_theme pydata_sphinx_theme nature sphinx_rtd_theme
+html_theme = 'sphinx_book_theme' # furo sphinx_book_theme pydata_sphinx_theme nature sphinx_rtd_theme
 html_static_path = ['_static']
 
 

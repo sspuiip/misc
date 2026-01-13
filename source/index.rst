@@ -11,8 +11,11 @@ Welcome to misc's documentation!
    :caption: 杂项
    :numbered:
 
+   
+   gen_model/deep_gen.ipynb
+   gen_model/vae_gen.ipynb
+
    comp_graph/comp_graph.ipynb
-   gen_model/gen_model.ipynb
 
 
 
